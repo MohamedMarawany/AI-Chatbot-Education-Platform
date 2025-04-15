@@ -51,9 +51,9 @@ python fastapi.py
 ```
 
 
-🔐 Environment Variables
+### 🔐 Environment Variables
 
-Create a .env file and add the following:
+**Create a .env file and add the following:**
 
 SUPABASE_URL=your_supabase_url
 

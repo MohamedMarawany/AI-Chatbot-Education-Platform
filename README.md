@@ -50,7 +50,7 @@ uvicorn fastapi:app --reload
 python fastapi.py
 ```
 
-
+---
 ### 🔐 Environment Variables
 
 **Create a .env file and add the following:**
@@ -61,10 +61,13 @@ SUPABASE_KEY=your_supabase_anon_key
 
 OPENAI_API_KEY=your_openai_key
 
-
+---
 ### 📹 Project Video & Demo
+
 Check out our demo video (not included in repo) or contact us for a walkthrough!
 
+
+---
 ### 👨‍💻 Authors
 Mohamed Marawany – AI Developer & Streamlit App Engineer
 

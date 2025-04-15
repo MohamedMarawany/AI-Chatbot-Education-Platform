@@ -42,7 +42,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-###🔹 FastAPI Backend
+🔹 FastAPI Backend
 
 ```bash
 uvicorn fastapi:app --reload
@@ -51,9 +51,9 @@ python fastapi.py
 ```
 
 
-###🔐 Environment Variables
+🔐 Environment Variables
 
-##### Create a .env file and add the following:
+Create a .env file and add the following:
 
 SUPABASE_URL=your_supabase_url
 

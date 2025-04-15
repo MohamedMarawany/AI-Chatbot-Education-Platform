@@ -1,0 +1,17 @@
+pandas
+nltk
+scikit-learn
+sentence-transformers
+qdrant-client
+spacy
+transformers
+peft
+torch
+PyPDF2
+openpyxl
+mem0ai
+langchain
+langchain-community
+crewai
+agentops
+tqdm

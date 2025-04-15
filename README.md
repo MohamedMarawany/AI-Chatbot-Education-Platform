@@ -50,12 +50,15 @@ uvicorn fastapi:app --reload
 python fastapi.py
 ```
 
-### 🔐 Environment Variables
+
+###🔐 Environment Variables
 
 ##### Create a .env file and add the following:
 
 SUPABASE_URL=your_supabase_url
+
 SUPABASE_KEY=your_supabase_anon_key
+
 OPENAI_API_KEY=your_openai_key
 
 

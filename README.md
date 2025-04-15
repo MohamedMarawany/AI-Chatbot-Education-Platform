@@ -28,7 +28,7 @@ An intelligent and interactive education platform powered by AI and chatbot capa
 
 ## 🛠️ How to Run Locally
 
-### 🔹 Streamlit Frontend
+ 🔹 Streamlit Frontend
 
 ```bash
 # Setup virtual environment
@@ -40,3 +40,31 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+```
+
+###🔹 FastAPI Backend
+
+```bash
+uvicorn fastapi:app --reload
+# Or
+python fastapi.py
+```
+
+### 🔐 Environment Variables
+
+##### Create a .env file and add the following:
+
+SUPABASE_URL=your_supabase_url
+SUPABASE_KEY=your_supabase_anon_key
+OPENAI_API_KEY=your_openai_key
+
+
+### 📹 Project Video & Demo
+Check out our demo video (not included in repo) or contact us for a walkthrough!
+
+### 👨‍💻 Authors
+Mohamed Marawany – AI Developer & Streamlit App Engineer
+
+Project Team – Graduation Project | Sprints
+
+
